@@ -1,0 +1,75 @@
+body{
+    font-family: Arial,sans-serif;
+    text-align: center;
+}
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900 bold;
+    color: #fff;
+    background-color: blue;
+    font-size: x-large;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    
+}
+h1 span{
+    color: yellow;
+}
+#countdown{
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: yellow;
+    font-style: oblique;
+}
+#date{
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    color: black;
+}
+input[type="text"],
+input[type="number"],
+button{
+    margin: 10px;
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    border-style: ridge;
+}
+#tiktok{
+    margin-top: 20px;
+}
+.yellow{
+    background-color: yellow;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    font-weight: 900 bold;
+    color: yellowgreen;
+}
+footer{
+    background-color: green;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+#advice{
+    display: block;
+    color: aliceblue;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+
+
+
+
